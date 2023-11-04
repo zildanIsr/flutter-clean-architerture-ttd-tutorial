@@ -1,4 +1,4 @@
-# flutter_application_2
+# flutter clean architecture tutorial
 
 A new Flutter project.
 
